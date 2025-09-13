@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shumail&label=Profile%20views&color=0e75b6&style=flat" alt="shumail" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shumaiill_" target="blank"><img src="https://img.shields.io/twitter/follow/ali__shumail?logo=twitter&style=for-the-badge" alt="shumaiill_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shumaiill_" target="blank"><img src="https://img.shields.io/twitter/follow/shumaiill_?logo=twitter&style=for-the-badge" alt="shumaiill_" /></a> </p>
 
 - 🔭 I’m currently working on **Backend**
 
