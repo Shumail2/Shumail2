@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shumaiill_" target="blank"><img src="https://img.shields.io/twitter/follow/shumaiill_?logo=twitter&style=for-the-badge" alt="shumaiill_" /></a> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Frontend**
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 💬 Ask me about **Node.js, MongoDB**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **info.clothingmagnet@gmail.com**
 
